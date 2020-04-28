@@ -199,7 +199,7 @@ int			main(int argc, char *argv[])
 	if (argc == 1 || !strcmp(argv[1], "ft_strcpy"))
 		test_ft_strcpy();
 
-		char *s1, *s2;
+	char *s1, *s2;
 	unsigned int u1, u2;
 
 	printf("\n________ ft_strdup ____________\n");
